@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 22
+names: ['carrot', 'lime', 'lemon', 'spinach', 'beans', 'cherry tomato', 'butternut squash', 'apple', 'milk', 'corn', 'chicken', 'mushrooms', 'egg', 'butter', 'celery', 'ginger', 'ladies finger', 'ivy gourd', 'garlic', 'cucumber', 'lemongrass', 'snake gourd']
