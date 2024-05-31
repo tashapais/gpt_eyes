@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import openai
 import re
 
-openai_api_key = "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"
+openai_api_key = ""
 model = YOLO("yolov8n.pt")
 results = model("/Users/tashapais/Downloads/yolo.jpeg", show= True)
 print(results)
